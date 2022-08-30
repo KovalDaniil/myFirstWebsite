@@ -1,2 +1,2 @@
 # myFirstWebsite
-myFirstWebsite with html and css
+## myFirstWebsite made with html and css only
