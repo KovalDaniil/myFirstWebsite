@@ -1,0 +1,90 @@
+body {
+/*  background-color: #FFFFF; */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background-image: url("images\101_iPad(1).png")
+}
+
+table, td, th {
+            width: 500px;
+            text-align:center
+         }
+
+h1 {
+  color: #7d94b5;
+  font: bold;
+  font-size: 32px;
+  text-align: center;
+}
+
+h3 {
+  color: #7d94b5;
+  text-decoration: underline;
+  text-align: center;
+  font-size: 22px;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #b6c199;
+  border-width: 6px;
+  height: 0;
+  width: 15%;
+}
+
+.heading {
+margin: auto;
+padding: 5px;
+}
+.education {
+  margin: auto;
+  width:auto
+}
+
+ul {
+  text-align: center;
+  list-style-type: none;
+}
+table {
+  margin: auto;
+}
+.headerMenu {
+  list-style-type: none;
+  display: inline-block;
+  margin: 0 100px;
+  position: relative;
+
+}
+.wrapper {
+ text-align: center;
+ list-style-position: inside;
+}
+.em{
+  font-size: 22px;
+}
+ol{
+  display: inline;
+}
+li{
+   margin:0 0 25px 0;
+   list-style-type: none;
+   display: block;
+}
+button {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+a{
+  margin: auto;
+  padding: inherit;
+}
